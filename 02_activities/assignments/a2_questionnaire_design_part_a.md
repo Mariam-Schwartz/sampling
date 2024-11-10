@@ -22,29 +22,25 @@ Scenario 1 - Helping HR understand the drivers of high turnover in a large tech 
 Describe the purpose of your survey:
 ```
 write your answer here...
-```The purpose of this survey is to understand the primary reasons for high turnover among entry- and lower-level employees at the company, identifying factors that impact employee satisfaction and retention to help HR deparment make changes to improve employee experience
+The purpose of this survey is to understand the primary reasons for high turnover among entry- and lower-level employees at the company, identifying factors that impact employee satisfaction and retention to help HR deparment make changes to improve employee experience
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
-```Entry- and lower-level employees who have either recently left the company or are at risk of leaving based on recent trends (absenteeism or presenteeism)
+Target Population: Entry- and lower-level employees who have either recently left the company or are at risk of leaving based on recent trends.
+Sampling Frame: Current entry- and lower-level employees, as well as those who recently left within the past six months.
+Sampling Units: Individual employees within these groups.
+Sampling Strategy: A stratified random sample to ensure representation across different departments with high turnover.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-How long have you been with the company? (options: less than 6 months, 6 months - 1 year, 1 to 2 years, over 2 years)
-2. write your question here...
-What are the primary reasons you would consider leaving this company? (Select all that apply) - Compensation, Lack of career advancement opportunities, Work-life balance, Job stress, Management style, Lack of recognition or appreciation, Other (please specify)
-3. write your question here...
-Are you satisfied with any of the following aspects of your job? - Compensation, Work-life balance, Career growth opportunities, Management and leadership, Workplace culture (Scale: Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied)
-4. write your question here...
-How likely are you to recommend this company as a place to work to friends or family? (Scale: Very Likely, Likely, Neutral, Unlikely, Very Unlikely)
-5. write your question here...
-How much do you agree with the following statement: "I feel a sense of belonging and inclusion within my team and the company." - Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree
-6. write your question here... (optional)
-In your opinion, how can management better support you and your team?
-7. write your question here... (optional)
-Is there anything else you would like to share about your experience working here?
+1. How long have you been with the company? (options: less than 6 months, 6 months - 1 year, 1 to 2 years, over 2 years)
+2. What are the primary reasons you would consider leaving this company? (Select all that apply) - Compensation, Lack of career advancement opportunities, Work-life balance, Job stress, Management style, Lack of recognition or appreciation, Other (please specify)
+3.Are you satisfied with any of the following aspects of your job? - Compensation, Work-life balance, Career growth opportunities, Management and leadership, Workplace culture (Scale: Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied)
+4.How likely are you to recommend this company as a place to work to friends or family? (Scale: Very Likely, Likely, Neutral, Unlikely, Very Unlikely)
+5.How much do you agree with the following statement: "I feel a sense of belonging and inclusion within my team and the company." - Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree
+6.In your opinion, how can management better support you and your team?
+7. Is there anything else you would like to share about your experience working here?
 8. write your question here... (optional)
 9. write your question here... (optional)
 10. write your question here... (optional)
