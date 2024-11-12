@@ -32,6 +32,7 @@ Target Population: Entry- and lower-level employees who have either recently lef
 Sampling Frame: Current entry- and lower-level employees, as well as those who recently left within the past six months.
 Sampling Units: Individual employees within these groups.
 Sampling Strategy: A stratified random sample to ensure representation across different departments with high turnover.
+Observational Units: The specific responses provided by each employee to the survey questions. These responses are the primary data points that will be analyzed to identify trends, satisfaction levels, and common reasons for turnover.
 ```
 Your 5-10 question survey:
 ```
