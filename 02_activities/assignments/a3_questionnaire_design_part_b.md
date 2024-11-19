@@ -17,63 +17,63 @@
     write your answer here...
     ```
 
-1. How long have you been with the company?
+        1. How long have you been with the company?
 
-Less than 6 months
-6 months - 1 year
-1 to 2 years
-Over 2 years
+        Less than 6 months
+        6 months - 1 year
+        1 to 2 years
+        Over 2 years
 
-2. Did you voluntarily leave the company or are you considering leaving?
+        2. Did you voluntarily leave the company or are you considering leaving?
 
-Voluntarily left
-Considering leaving
-Not applicable
+        Voluntarily left
+        Considering leaving
+        Not applicable
 
-3. What are the primary reasons you would consider leaving or have already left this company? (Select all that apply)
+        3. What are the primary reasons you would consider leaving or have already left this company? (Select all that apply)
 
-Compensation
-Lack of career advancement opportunities
-Work-life balance
-Job stress
-Management style
-Lack of recognition or appreciation
-Discrimination or bias
-Other (please specify)
+        Compensation
+        Lack of career advancement opportunities
+        Work-life balance
+        Job stress
+        Management style
+        Lack of recognition or appreciation
+        Discrimination or bias
+        Other (please specify)
 
-4. Are you satisfied with the following aspects of your job? (Rate each on a 5-point scale: 
-Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied)
+        4. Are you satisfied with the following aspects of your job? (Rate each on a 5-point scale: 
+        Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied)
 
-Compensation
-Work-life balance
-Career growth opportunities
-Management and leadership
-Workplace culture
+        Compensation
+        Work-life balance
+        Career growth opportunities
+        Management and leadership
+        Workplace culture
 
-5. How much do you agree with the following statement: "I feel a sense of belonging and inclusion within my team and the company."
+        5. How much do you agree with the following statement: "I feel a sense of belonging and inclusion within my team and the company."
 
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
+        Strongly Agree
+        Agree
+        Neutral
+        Disagree
+        Strongly Disagree
 
-6. Have you experienced any specific challenges related to diversity, equity, and inclusion at the company?
+        6. Have you experienced any specific challenges related to diversity, equity, and inclusion at the company?
 
-Yes (please specify)
-No
+        Yes (please specify)
+        No
 
-7. How likely are you to recommend this company as a place to work to friends or family?
+        7. How likely are you to recommend this company as a place to work to friends or family?
 
-Very Likely
-Likely
-Neutral
-Unlikely
-Very Unlikely
+        Very Likely
+        Likely
+        Neutral
+        Unlikely
+        Very Unlikely
 
-8. What is one change you believe the company could make to better support you and your colleagues?
+        8. What is one change you believe the company could make to better support you and your colleagues?
 
-9. (Optional) Please share any additional thoughts or experiences that you believe are relevant to understanding turnover.
+        9. (Optional) Please share any additional thoughts or experiences that you believe are relevant to understanding turnover.
 
 Changes and Rationale: 
 
