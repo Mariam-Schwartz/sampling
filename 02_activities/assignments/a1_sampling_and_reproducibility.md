@@ -10,12 +10,30 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: MARIAM SCHWARTZ (formerly IBRAHIM)
 
 ```
 Please write your explanation here...
 
 ```
+Stages of Sampling in the Model
+1. Infection Sampling:
+Individuals are initially chosen to be infected using np.random.choice, with a sample size based on the ATTACK_RATE (set to 0.10, so 10% of the total 1000 individuals are infected).
+Sampling Frame: All attendees at weddings and brunches.
+Distribution: Uniform random sampling without replacement.
+2. Primary Contact Tracing Sampling:
+Among the infected individuals, a fraction (determined by TRACE_SUCCESS, set to 0.20) is traced, using a Bernoulli trial (np.random.rand(...) < TRACE_SUCCESS).
+Sampling Frame: All infected individuals.
+Distribution: Bernoulli distribution with a success probability of 0.20.
+3. Secondary Contact Tracing Sampling:
+Events that meet the SECONDARY_TRACE_THRESHOLD (at least 2 traces) are marked as fully traced, so all infected individuals at these events are considered traced.
+Sampling Frame: Events with primary traces meeting the threshold.
+Distribution: Conditional based on the count of traced individuals at each event.
+
+Changes Made to the code 
+Set a Random Seed: Adding np.random.seed(42) will ensure that the random choices for infections and tracing are the same each time the script is executed
+
+Reduce Simulation Runs: Changing 50000 to 1000 for the results loop will reduce the computation load while still providing insight into the simulation’s distribution, the graph has the same distribution plot
 
 
 ## Criteria
